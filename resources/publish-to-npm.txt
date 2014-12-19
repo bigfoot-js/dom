@@ -1,0 +1,1 @@
+Run for each version bump: `npm publish ./ --tag <version>`

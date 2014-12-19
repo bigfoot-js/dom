@@ -1,0 +1,28 @@
+{
+  "name": "dom",
+  "main": "dist/dom.js",
+  "version": "0.0.1",
+  "authors": [
+    "Chris Sauve <chrismsauve@gmail.com>"
+  ],
+  "description": "A simple set of DOM helpers used by bigfoot and poptart.",
+  "keywords": [
+    "utilities",
+    "dom",
+    "bigfoot",
+    "poptart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "resources",
+    "Gruntfile.coffee",
+    "CONTRIBUTING.md",
+    "package.json"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
